@@ -2,6 +2,10 @@
 
 A full-stack eCommerce platform built with the MERN stack offers user-friendly interfaces for users and administrators. Features include product search, filtering, sorting, secure authentication, and PayPal integration for payments.
 
+
+## Live Link
+https://ecommerce-1-ex1a.onrender.com/auth/login
+
 ## Tech Stack
 - **Frontend**: React.js, ShadCN, Tailwind CSS
 - **Backend**: Node.js, Express.js
