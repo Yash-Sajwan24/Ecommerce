@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/fc62670c-85fb-4011-9b5f-9420cf3b8245
 - **Password Protection**: Bcrypt for secure password hashing.
 - **Role-based Access**: Route validation to restrict access based on user roles (admin/user).
 
-  ### Prerequisites
+## Prerequisites
 
 **Node version 18.x.x**
 
